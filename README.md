@@ -1,3 +1,3 @@
 # coursera-test
 coursera test repository
-hello 
+theme: jekyll-theme-minimal
